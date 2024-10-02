@@ -1,5 +1,6 @@
 # Customer service / Atencion al cliente
 
-<div id="header" align="center">
-  <img decoding="async" src="" width="800"/>
-</div>
+
+
+https://github.com/user-attachments/assets/b6a56ad0-082e-433c-b74b-0a98bc425296
+
